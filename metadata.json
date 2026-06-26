@@ -1,0 +1,6 @@
+{
+  "name": "Dra. Thalita Satriano - Estética Avançada",
+  "description": "Landing page mobile-first premium para Dra. Thalita Satriano, especialista em estética avançada com agendamento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
